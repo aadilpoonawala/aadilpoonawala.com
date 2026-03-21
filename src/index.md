@@ -28,9 +28,5 @@ Here's something I vibe-coded over a weekend: [thebombaycats.com](https://thebom
 
 ## <span style="color: #1a5ea8;">Volunteer Experience</span>
 
-<div class="volunteer">
-    <img src="/img/teach-for-india.png" alt="Teach For India">
-    <img src="/img/eeg.png" alt="Emirates Environmental Group">
-    <img src="/img/dubai-cares.png" alt="Dubai Cares">
-    <img src="/img/greenpeace.png" alt="Greenpeace">
+Teach For India · Emirates Environmental Group · Dubai Cares · Greenpeace
 </div>
