@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aadil Poonawala</title>
+    <meta name="description" content="Aadil Poonawala — youngest stakeholder at HOWL. Written for 200+ brands.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Merriweather', Georgia, serif;
+            max-width: 640px;
+            margin: 3rem auto;
+            padding: 0 1.5rem;
+            line-height: 1.85;
+            color: #222;
+            background: #fff;
+            font-size: 15px;
+            font-weight: 300;
+        }
+
+        ::selection {
+            background: #90EE90;
+        }
+
+        a {
+            color: #1a5ea8;
+            text-decoration: underline;
+        }
+
+        a:hover {
+            background: #90EE90;
+            text-decoration: none;
+            color: #111;
+        }
+
+        strong {
+            font-weight: 700;
+        }
+
+        h1 {
+            font-size: 32px;
+            font-weight: 700;
+            font-style: normal;
+            margin: 0 0 2rem;
+            letter-spacing: -0.01em;
+        }
+
+        h2 {
+            font-size: 15px;
+            font-weight: 700;
+            font-style: normal;
+            margin: 2.5rem 0 0.5rem;
+            letter-spacing: 0.02em;
+        }
+
+        p {
+            margin: 0 0 1.2rem;
+        }
+
+        .volunteer {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            align-items: center;
+            margin-top: 1.5rem;
+        }
+
+        .volunteer img {
+            height: 48px;
+            width: auto;
+            display: block;
+        }
+
+        .edu-line {
+            margin-bottom: 0.4rem;
+        }
+
+        .edu-batch {
+            font-size: 0.8em;
+            color: #888;
+        }
+
+        .footer {
+            margin-top: 4rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #ddd;
+            font-size: 0.85em;
+            color: #999;
+        }
+
+        img {
+            max-width: 100%;
+        }
+
+        @media (max-width: 500px) {
+            body { margin: 2rem auto; font-size: 14px; }
+            .volunteer { gap: 1rem; }
+            .volunteer img { height: 36px; }
+        }
+    </style>
+</head>
+<body>
+
+{{ content | safe }}
+
+<footer class="footer">
+    <p>Made by hand in Mumbai.</p>
+</footer>
+
+</body>
+</html>
