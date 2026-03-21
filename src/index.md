@@ -16,7 +16,7 @@ A friend and I have also been feeding the elderly of Mumbai, everyday since 2017
 
 Here's something I vibe-coded over a weekend: [thebombaycats.com](https://thebombaycats.com)
 
-[LinkedIn](https.//linkedin.com/in/aadil-poonawala-23447b102) · [Twitter](https://x.com/nuggetelves) · [Git](https://github.com/aadilpoonawala)
+[LinkedIn](https://www.linkedin.com/in/aadil-poonawala-23447b102/) · [Twitter](https://x.com/nuggetelves) · [Git](https://github.com/aadilpoonawala)
 
 ## EDUCATION
 
