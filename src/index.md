@@ -16,6 +16,7 @@ A friend and I have also been feeding the elderly of Mumbai, everyday since 2017
 
 Here's something I vibe-coded over a weekend: [thebombaycats.com](https://thebombaycats.com)
 
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL) · [Twitter](https://x.com/nuggetelves) · [Git](https://github.com/aadilpoonawala)
 
 ## EDUCATION
 
@@ -28,5 +29,5 @@ Here's something I vibe-coded over a weekend: [thebombaycats.com](https://thebom
 
 ## <span style="color: #1a5ea8;">Volunteer Experience</span>
 
-Teach For India · Emirates Environmental Group · Dubai Cares · Greenpeace
+Teach For India  ·  Emirates Environmental Group  ·  Dubai Cares  ·  Greenpeace
 </div>
