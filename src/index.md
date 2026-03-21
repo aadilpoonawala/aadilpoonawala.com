@@ -30,6 +30,3 @@ Here's something I vibe-coded over a weekend: [thebombaycats.com](https://thebom
 
 Teach For India · Emirates Environmental Group · Dubai Cares · Greenpeace
 </div>
----
-
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL) · [Twitter](https://x.com/nuggetelves)
