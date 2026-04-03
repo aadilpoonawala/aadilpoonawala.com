@@ -20,6 +20,8 @@ I've made 2 cameos in ads, you can watch them here: [Spotify](https://www.youtub
 
 [LinkedIn](https://www.linkedin.com/in/aadil-poonawala-23447b102/) · [Twitter](https://x.com/nuggetelves) · [Git](https://github.com/aadilpoonawala)
 
+<iframe src="https://aadilpoons.substack.com/embed" width="100%" height="320" style="border: 1px solid #EEE; background: white;" frameborder="0" scrolling="no"></iframe>
+
 ## EDUCATION
 
 <div class="edu-line">Jai Hind College, Mumbai — B. Sc. in Biotechnology <span class="edu-batch">Batch of 2014 - 2017</span></div>
