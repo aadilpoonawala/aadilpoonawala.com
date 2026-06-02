@@ -14,7 +14,7 @@ I loved life at a magazine, but was itching to work closely with businesses. Tha
 
 A friend and I have also been feeding the elderly of Mumbai, everyday since 2017 with FoodforMore. (It's my party conversation, where I ask people I meet to sponsor a family). 
 
-Here's something I recently vibe-coded over a weekend: [thebombaycats.com](https://thebombaycats.com) and something I enjoyed writing [THE POLITICAL ECONOMY OF HOGWARTS](https://open.substack.com/pub/aadilpoons/p/the-political-economy-of-hogwarts?r=19yluk&utm_campaign=post-expanded-share&utm_medium=post%20viewer)
+Here's something I recently vibe-coded over a weekend: [thebombaycats.com](https://thebombaycats.com) and something I enjoyed writing: [THE POLITICAL ECONOMY OF HOGWARTS](https://open.substack.com/pub/aadilpoons/p/the-political-economy-of-hogwarts?r=19yluk&utm_campaign=post-expanded-share&utm_medium=post%20viewer)
 
 I've made 2 cameos in ads, you can watch them here: [Spotify](https://www.youtube.com/watch?v=XETjqGrXeow) & [Bumble](https://www.youtube.com/watch?v=AwQ3AkzBDOY)
 
